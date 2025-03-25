@@ -1,4 +1,4 @@
-#🔧 Installation:-
+# Installation:-
 
 ## 1 Clone the Repository
 git clone https://github.com/HaR-S-H/task-management.git
